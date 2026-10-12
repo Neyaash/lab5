@@ -1,1 +1,1 @@
-text lab5
+lab5
